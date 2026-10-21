@@ -575,6 +575,12 @@ Java Full Stack Developer | Spring Boot | Microservices | React.js
 
 ---
 
-## 📄 License
+## License
 
-This project is created for learning, portfolio, and demonstration purposes.
+Copyright © 2026 Manikandan S. All Rights Reserved.
+
+This Library Management System project is available for viewing, personal learning, educational reference, and note-taking only. Copying, modifying, redistributing, or commercially using the original source code and project materials without prior written permission is prohibited.
+
+Third-party components and dependencies remain subject to their respective licenses and terms.
+
+See the [LICENSE](LICENSE) file for details.
